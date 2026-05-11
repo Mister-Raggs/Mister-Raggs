@@ -2,7 +2,7 @@
 
 Backend engineer focused on distributed systems and operational reliability, currently applying that lens to AI infrastructure.
 
-At Amazon I worked on high-throughput ingestion pipelines and cross-region observability. Before that, I built streaming data systems at a fintech startup (Kafka, Airflow, Elasticsearch at scale). I'm currently at UCSD's Hao AI Lab.
+At Amazon I worked on high-throughput ingestion pipelines and cross-region observability. Before that, I built streaming data systems at a fintech startup (Kafka, Airflow, Elasticsearch at scale). I'm currently at UCSD's Hao AI Lab, where I contribute to [**FastVideo**](https://github.com/hao-ai-lab/FastVideo) — most recently [building the initial agent skill stack](https://github.com/hao-ai-lab/FastVideo/commit/e3a5c6954f49bb48ab72455df5f2f03cdab913dd) for automated model porting, with ongoing work on inference optimization via torch.compile and kernel fusion.
 
 **Projects worth looking at:**
 
